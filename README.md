@@ -10,7 +10,7 @@ Snappy is chat application build with the power of MERN Stack. You can find the 
 
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
+git clone https://github.com/sajal-123/MERN-Project-1
 cd chat-app-react-nodejs
 ```
 Now rename env files from .env.example to .env
